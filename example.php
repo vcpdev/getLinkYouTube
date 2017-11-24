@@ -1,0 +1,4 @@
+<?php
+include ('getlink.php');
+
+?>
